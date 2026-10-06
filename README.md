@@ -6,16 +6,68 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+ANALISE+E+DESENVOLVIMENTO+DE+SISTEMAS;DESENVOLVEDORA+FULLSTACK;TRANSFORMANDO+IDEIAS+EM+PROJETOS)
 
+public class nicole {
+
+    static void main(String[] args) {
+    
+        private String nome = "Nicole Silveira";
+        private String formacao = "Estudante de Analise e Desenvolvimento";
+        private String localizacao = "Porto Alegre, 🇧🇷";
+        private String objetivo = "Especialista em Cibersegurança";
+
+        String[] foco = {
+                "Desenvolvimento Front-end", "Inteligência Artificial", "Aprofundar meu Back-end",
+                "Cibersegurança", "Java"
+        };
+
+        String[] ferramentas = {
+                "Git", "GitHub", "Figma", "Canva", "VS Code"
+        };
+
+        String[] paixoes = {
+                "Tecnologia", "Aprendizado", "Design", "Fitness", "Leitura"
+        };
+
+
+        System.out.println("Olá, eu sou " + nome + "!");
+        System.out.println("Localização: " + localizacao);
+        System.out.println("Formação atual: " + formacao);
+        System.out.println("Objetivo: " + objetivo);
+
+        System.out.println("\nFoco:");
+        for (String item : foco) {
+            System.out.println("- " + item);
+        }
+
+        System.out.println("\nFerramentas:");
+        for (String item : ferramentas) {
+            System.out.println("- " + item);
+        }
+
+        System.out.println("\nPaixões:");
+        for (String item : paixoes) {
+            System.out.println("- " + item);
+            
+        }
+    }
+}
+```
 <br/>
 
+<div align="center">
 
+---
 # 💻 TECNOLOGIAS
 
 <img src="https://skillicons.dev/icons?i=html,java,mysql,github,figma,vscode"/>
 
+</div>
+
+
 <br/>
 <br/>
 
+---
 # 📊 GitHub
 
 <div align="center">
@@ -36,8 +88,17 @@
   />
 
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
+<div align="center">
 
 ## 🌎 Vamos nos conectar?
 
@@ -52,4 +113,3 @@
 </a>
 
 </div>
-
