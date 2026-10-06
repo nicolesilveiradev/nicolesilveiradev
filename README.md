@@ -115,10 +115,6 @@ Além da tecnologia, também tenho uma grande paixão por mitologia grega, luta 
 
 <div align="center">
 
-<a href="https://github.com/nicolesilveiradev">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/nicole-silveira-">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
