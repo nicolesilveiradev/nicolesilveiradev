@@ -18,7 +18,8 @@
 
 # 📊 GitHub
 
-<p>
+<div align="center">
+ 
  <img 
     align="left" 
     alt="GitHub Stats" 
@@ -34,4 +35,21 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilveiradev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <p/>
+</div>
+
+---
+
+## 🌎 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/nicolesilveiradev">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/nicole-silveira-">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
