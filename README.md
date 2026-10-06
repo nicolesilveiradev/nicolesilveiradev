@@ -51,7 +51,6 @@ public class nicole {
         }
     }
 
-
 <br/>
 
 <div align="center">
@@ -59,19 +58,30 @@ public class nicole {
 ---
 # 💻 TECNOLOGIAS
 
+<div align="center">
+
+
 <img src="https://skillicons.dev/icons?i=html,java,mysql,github,figma,vscode"/>
 
-</div>
+ </div>
 
 
+## Meus planos
+Desde pequena, sempre tive curiosidade por tecnologia e por entender como as coisas funcionam.
+
+Hoje sou estudante de Analise e Desenvolvimento de Sistemas na UniRitter e venho construindo minha experiência através de projetos acadêmicos, pessoais e trabalhos em grupo.
+
+Meu objetivo é continuar evoluindo como desenvolvedora e construir uma base cada vez mais sólida em Cibersegurança, Back-end, Inteligência Artificial e explorar minhas habilidades com Front-end.
+
+Além da tecnologia, também tenho uma grande paixão por mitologia grega, luta e desenvolvimento pessoal. São áreas que fazem parte da minha rotina.
+
+"O melhor projeto é sempre o próximo."
 <br/>
-<br/>
-
----
-# 📊 GitHub
 
 <div align="center">
- 
+
+# 📊 GitHub
+
  <img 
     align="left" 
     alt="GitHub Stats" 
@@ -87,7 +97,8 @@ public class nicole {
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilveiradev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</div>
+ </div>
+
 <br/>
 <br/>
 <br/>
@@ -113,3 +124,4 @@ public class nicole {
 </a>
 
 </div>
+
